@@ -1,0 +1,300 @@
+Year,venue,team1,team2,toss_winner,toss_decision,1st innings win ratio,2nd innings win ratio,head to head ratio team1,head to head ratio team2,winner
+2017,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,0.4444,0.5556,0.565217391,0.434782609,Sunrisers Hyderabad
+2017,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,Bat,0.4167,0.5833,0.6,0.4,Royal Challengers Bangalore
+2017,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Field,0.4231,0.5769,0.71875,0.28125,Mumbai Indians
+2017,"Holkar Cricket Stadium, Indore",Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Bat,0.1111,0.8889,0.53125,0.46875,Punjab Kings
+2017,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Field,0.4231,0.5769,0.545454545,0.454545455,Mumbai Indians
+2017,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,Field,0.4111,0.5889,0.65625,0.34375,Kolkata Knight Riders
+2017,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,0.4167,0.5833,0.424242424,0.575757576,Mumbai Indians
+2017,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,0.4111,0.5889,0.653846154,0.346153846,Kolkata Knight Riders
+2017,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,Sunrisers Hyderabad,Bat,0.4405,0.5595,0.48484,0.51516,Delhi Capitals
+2017,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Bat,0.4405,0.5595,0.45455,0.54545,Kolkata Knight Riders
+2017,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,Field,0.4444,0.5556,0.68181,0.31819,Sunrisers Hyderabad
+2017,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Bat,0.4444,0.5556,0.54167,0.45833,Sunrisers Hyderabad
+2017,"Holkar Cricket Stadium, Indore",Punjab Kings,Mumbai Indians,Mumbai Indians,Field,0.1111,0.8889,0.46875,0.53125,Mumbai Indians
+2017,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Delhi Capitals,Field,0.4231,0.5769,0.5588,0.4412,Mumbai Indians
+2017,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,0.4111,0.5889,0.5757,0.4243,Kolkata Knight Riders
+2017,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Field,0.4111,0.5889,0.54545,0.45455,Kolkata Knight Riders
+2017,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Field,0.45,0.55,0.31819,0.68181,Sunrisers Hyderabad
+2017,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Delhi Capitals,Punjab Kings,Field,0.45,0.55,0.51516,0.48484,Punjab Kings
+2017,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.4444,0.5556,0.346153846,0.653846154,Sunrisers Hyderabad
+2017,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Bat,0.4231,0.5769,0.575757576,0.424242424,Mumbai Indians
+2017,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Field,0.4405,0.5595,0.45833,0.54167,Delhi Capitals
+2017,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Field,0.4167,0.5833,0.46875,0.53125,Punjab Kings
+2017,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,Delhi Capitals,Field,0.4405,0.5595,0.4412,0.5588,Mumbai Indians
+2017,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.4167,0.5833,0.4243,0.5757,Kolkata Knight Riders
+2017,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Bat,0.4444,0.5556,0.454545455,0.545454545,Sunrisers Hyderabad
+2017,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.45,0.55,0.34375,0.65625,Punjab Kings
+2017,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Mumbai Indians,Field,0.4231,0.5769,0.53125,0.46875,Punjab Kings
+2017,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Field,0.4111,0.5889,0.28125,0.71875,Mumbai Indians
+2017,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Bat,0.4405,0.5595,0.4,0.6,Royal Challengers Bangalore
+2017,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.4167,0.5833,0.346153846,0.653846154,Kolkata Knight Riders
+2017,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Field,0.4167,0.5833,0.71875,0.28125,Mumbai Indians
+2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,0.4231,0.5769,0.5405,0.4595,Chennai Super Kings
+2018,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Delhi Capitals,Punjab Kings,Field,0.45,0.55,0.51516,0.48484,Punjab Kings
+2018,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Field,0.4111,0.5889,0.5757,0.4243,Kolkata Knight Riders
+2018,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Field,0.4444,0.5556,0.5,0.5,Sunrisers Hyderabad
+2018,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Field,0.6053,0.3947,0.6333,0.3667,Chennai Super Kings
+2018,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Delhi Capitals,Delhi Capitals,Field,0.3571,0.6429,0.5357,0.4643,Rajasthan Royals
+2018,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Field,0.4444,0.5556,0.454545455,0.545454545,Sunrisers Hyderabad
+2018,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Field,0.4167,0.5833,0.46875,0.53125,Royal Challengers Bangalore
+2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Delhi Capitals,Field,0.4231,0.5769,0.5588,0.4412,Delhi Capitals
+2018,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,0.4111,0.5889,0.653846154,0.346153846,Sunrisers Hyderabad
+2018,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Field,0.4167,0.5833,0.5357,0.4643,Rajasthan Royals
+2018,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Chennai Super Kings,Chennai Super Kings,Field,0.45,0.55,0.4642,0.5358,Punjab Kings
+2018,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Field,0.4111,0.5889,0.54545,0.45455,Kolkata Knight Riders
+2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,0.4231,0.5769,0.575757576,0.424242424,Mumbai Indians
+2018,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.3571,0.6429,0.5,0.5,Kolkata Knight Riders
+2018,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Bat,0.45,0.55,0.31819,0.68181,Punjab Kings
+2018,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,0.549,0.451,0.5357,0.4643,Chennai Super Kings
+2018,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Punjab Kings,Punjab Kings,Field,0.4111,0.5889,0.65625,0.34375,Punjab Kings
+2018,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,Field,0.4167,0.5833,0.6,0.4,Royal Challengers Bangalore
+2018,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Field,0.4444,0.5556,0.3,0.7,Chennai Super Kings
+2018,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Mumbai Indians,Mumbai Indians,Bat,0.3571,0.6429,0.4642,0.5358,Rajasthan Royals
+2018,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,Delhi Capitals,Field,0.4405,0.5595,0.48484,0.51516,Punjab Kings
+2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Field,0.4231,0.5769,0.545454545,0.454545455,Sunrisers Hyderabad
+2018,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,0.4167,0.5833,0.3226,0.6774,Chennai Super Kings
+2018,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,Field,0.4444,0.5556,0.68181,0.31819,Sunrisers Hyderabad
+2018,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.4405,0.5595,0.45455,0.54545,Delhi Capitals
+2018,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,0.549,0.451,0.4595,0.5405,Mumbai Indians
+2018,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Bat,0.3571,0.6429,0.5,0.5,Sunrisers Hyderabad
+2018,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.4167,0.5833,0.4243,0.5757,Kolkata Knight Riders
+2018,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,Delhi Capitals,Delhi Capitals,Field,0.549,0.451,0.6333,0.3667,Chennai Super Kings
+2018,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,0.4167,0.5833,0.424242424,0.575757576,Royal Challengers Bangalore
+2018,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Field,0.4405,0.5595,0.4643,0.5357,Delhi Capitals
+2018,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Field,0.4111,0.5889,0.3667,0.6333,Kolkata Knight Riders
+2018,"Holkar Cricket Stadium, Indore",Punjab Kings,Mumbai Indians,Mumbai Indians,Field,0.1111,0.8889,0.46875,0.53125,Mumbai Indians
+2018,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Field,0.549,0.451,0.6774,0.3226,Chennai Super Kings
+2018,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Bat,0.4444,0.5556,0.54167,0.45833,Sunrisers Hyderabad
+2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.4231,0.5769,0.71875,0.28125,Mumbai Indians
+2018,"Holkar Cricket Stadium, Indore",Punjab Kings,Rajasthan Royals,Punjab Kings,Field,0.1111,0.8889,0.4074,0.5926,Punjab Kings
+2018,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,0.4444,0.5556,0.565217391,0.434782609,Sunrisers Hyderabad
+2018,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Punjab Kings,Rajasthan Royals,Bat,0.3571,0.6429,0.5926,0.4074,Rajasthan Royals
+2018,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Field,0.4111,0.5889,0.28125,0.71875,Mumbai Indians
+2018,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Bat,0.4405,0.5595,0.45833,0.54167,Sunrisers Hyderabad
+2018,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Bat,0.3571,0.6429,0.4643,0.5357,Rajasthan Royals
+2018,"Holkar Cricket Stadium, Indore",Punjab Kings,Kolkata Knight Riders,Punjab Kings,Field,0.1111,0.8889,0.34375,0.65625,Kolkata Knight Riders
+2018,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,0.4405,0.5595,0.4,0.6,Royal Challengers Bangalore
+2018,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Field,0.549,0.451,0.7,0.3,Chennai Super Kings
+2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,0.4231,0.5769,0.5358,0.4642,Rajasthan Royals
+2018,"Holkar Cricket Stadium, Indore",Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,0.1111,0.8889,0.53125,0.46875,Royal Challengers Bangalore
+2018,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Field,0.4111,0.5889,0.5,0.5,Kolkata Knight Riders
+2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Punjab Kings,Field,0.4231,0.5769,0.53125,0.46875,Mumbai Indians
+2018,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,0.4167,0.5833,0.434782609,0.565217391,Royal Challengers Bangalore
+2018,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Field,0.4405,0.5595,0.3667,0.6333,Delhi Capitals
+2018,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Bat,0.3571,0.6429,0.4643,0.5357,Rajasthan Royals
+2018,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Bat,0.4444,0.5556,0.346153846,0.653846154,Kolkata Knight Riders
+2018,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,Delhi Capitals,Bat,0.4405,0.5595,0.4412,0.5588,Delhi Capitals
+2018,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,Punjab Kings,Chennai Super Kings,Field,0.549,0.451,0.5358,0.4642,Chennai Super Kings
+2018,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field,0.4231,0.5769,0.3,0.7,Chennai Super Kings
+2018,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field,0.4111,0.5889,0.5,0.5,Kolkata Knight Riders
+2018,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Field,0.4111,0.5889,0.653846154,0.346153846,Sunrisers Hyderabad
+2018,"Wankhede Stadium, Mumbai",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Field,0.4231,0.5769,0.7,0.3,Chennai Super Kings
+2019,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Field,0.6053,0.3947,0.6774,0.3226,Chennai Super Kings
+2019,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Field,0.4111,0.5889,0.653846154,0.346153846,Kolkata Knight Riders
+2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Mumbai Indians,Field,0.4231,0.5769,0.5588,0.4412,Delhi Capitals
+2019,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Punjab Kings,Rajasthan Royals,Field,0.3571,0.6429,0.5926,0.4074,Punjab Kings
+2019,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Chennai Super Kings,Delhi Capitals,Bat,0.4405,0.5595,0.3667,0.6333,Chennai Super Kings
+2019,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Punjab Kings,Punjab Kings,Field,0.4111,0.5889,0.65625,0.34375,Kolkata Knight Riders
+2019,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Field,0.4167,0.5833,0.424242424,0.575757576,Mumbai Indians
+2019,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Bat,0.4444,0.5556,0.5,0.5,Sunrisers Hyderabad
+2019,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Mumbai Indians,Punjab Kings,Field,0.45,0.55,0.46875,0.53125,Punjab Kings
+2019,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Field,0.4405,0.5595,0.45455,0.54545,Delhi Capitals
+2019,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,0.4444,0.5556,0.565217391,0.434782609,Sunrisers Hyderabad
+2019,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,0.6053,0.3947,0.5357,0.4643,Chennai Super Kings
+2019,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Delhi Capitals,Delhi Capitals,Field,0.45,0.55,0.51516,0.48484,Punjab Kings
+2019,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Field,0.3571,0.6429,0.4643,0.5357,Rajasthan Royals
+2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,0.4231,0.5769,0.5405,0.4595,Mumbai Indians
+2019,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,0.4405,0.5595,0.45833,0.54167,Sunrisers Hyderabad
+2019,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.4167,0.5833,0.4243,0.5757,Kolkata Knight Riders
+2019,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,Bat,0.6053,0.3947,0.5358,0.4642,Chennai Super Kings
+2019,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Field,0.4444,0.5556,0.454545455,0.545454545,Mumbai Indians
+2019,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Field,0.4167,0.5833,0.6,0.4,Delhi Capitals
+2019,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.3571,0.6429,0.5,0.5,Kolkata Knight Riders
+2019,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Field,0.45,0.55,0.31819,0.68181,Punjab Kings
+2019,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Field,0.6053,0.3947,0.6333,0.3667,Chennai Super Kings
+2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Mumbai Indians,Field,0.4231,0.5769,0.53125,0.46875,Mumbai Indians
+2019,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Field,0.3571,0.6429,0.4643,0.5357,Chennai Super Kings
+2019,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Field,0.4111,0.5889,0.54545,0.45455,Delhi Capitals
+2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,0.4231,0.5769,0.5358,0.4642,Rajasthan Royals
+2019,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,0.45,0.55,0.53125,0.46875,Royal Challengers Bangalore
+2019,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Field,0.4111,0.5889,0.3667,0.6333,Chennai Super Kings
+2019,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Field,0.4444,0.5556,0.54167,0.45833,Delhi Capitals
+2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Field,0.4231,0.5769,0.575757576,0.424242424,Mumbai Indians
+2019,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Rajasthan Royals,Rajasthan Royals,Field,0.45,0.55,0.4074,0.5926,Punjab Kings
+2019,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Bat,0.4444,0.5556,0.3,0.7,Sunrisers Hyderabad
+2019,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,Mumbai Indians,Bat,0.4405,0.5595,0.4412,0.5588,Mumbai Indians
+2019,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Field,0.4111,0.5889,0.5757,0.4243,Royal Challengers Bangalore
+2019,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Field,0.3571,0.6429,0.4642,0.5358,Rajasthan Royals
+2019,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,Delhi Capitals,Field,0.4405,0.5595,0.48484,0.51516,Delhi Capitals
+2019,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Field,0.4444,0.5556,0.346153846,0.653846154,Sunrisers Hyderabad
+2019,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,0.4167,0.5833,0.3226,0.6774,Royal Challengers Bangalore
+2019,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Delhi Capitals,Delhi Capitals,Field,0.3571,0.6429,0.5357,0.4643,Delhi Capitals
+2019,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Field,0.6053,0.3947,0.7,0.3,Chennai Super Kings
+2019,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Field,0.4167,0.5833,0.46875,0.53125,Royal Challengers Bangalore
+2019,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field,0.4111,0.5889,0.5,0.5,Rajasthan Royals
+2019,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Field,0.6053,0.3947,0.4595,0.5405,Mumbai Indians
+2019,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Field,0.3571,0.6429,0.5,0.5,Rajasthan Royals
+2019,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,Bat,0.4405,0.5595,0.4,0.6,Delhi Capitals
+2019,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,0.4111,0.5889,0.28125,0.71875,Kolkata Knight Riders
+2019,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,Field,0.4444,0.5556,0.68181,0.31819,Sunrisers Hyderabad
+2019,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,0.4167,0.5833,0.5357,0.4643,Royal Challengers Bangalore
+2019,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,Field,0.6053,0.3947,0.6333,0.3667,Chennai Super Kings
+2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat,0.4231,0.5769,0.545454545,0.454545455,Mumbai Indians
+2019,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.45,0.55,0.34375,0.65625,Kolkata Knight Riders
+2019,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Bat,0.4405,0.5595,0.4643,0.5357,Delhi Capitals
+2019,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Field,0.4167,0.5833,0.434782609,0.565217391,Royal Challengers Bangalore
+2019,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Chennai Super Kings,Punjab Kings,Field,0.45,0.55,0.4642,0.5358,Punjab Kings
+2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Field,0.4231,0.5769,0.71875,0.28125,Mumbai Indians
+2019,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Bat,0.6053,0.3947,0.5405,0.4595,Mumbai Indians
+2019,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Field,0.5333,0.4667,0.45833,0.54167,Delhi Capitals
+2019,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Field,0.5333,0.4667,0.6333,0.3667,Chennai Super Kings
+2019,"Rajiv Gandhi International Stadium, Hyderabad",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,0.4444,0.5556,0.5405,0.4595,Mumbai Indians
+2022,"Wankhede Stadium, Mumbai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.4231,0.5769,0.6333,0.3667,Kolkata Knight Riders
+2022,"Brabourne Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Delhi Capitals,Field,0.4602,0.5398,0.4412,0.5588,Delhi Capitals
+2022,"Dr DY Patil Sports Academy, Mumbai",Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Field,0.4595,0.5405,0.46875,0.53125,Punjab Kings
+2022,"Wankhede Stadium, Mumbai",Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Field,0.4231,0.5769,0.8,0.2,Gujarat Titans
+2022,"Maharashtra Cricket Association Stadium, Pune",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Field,0.549,0.451,0.5,0.5,Rajasthan Royals
+2022,"Dr DY Patil Sports Academy, Mumbai",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Field,0.4595,0.5405,0.4243,0.5757,Royal Challengers Bangalore
+2022,"Brabourne Stadium, Mumbai",Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Field,0.4602,0.5398,0.3333,0.6667,Lucknow Super Giants
+2022,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,Field,0.4231,0.5769,0.65625,0.34375,Kolkata Knight Riders
+2022,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians,Rajasthan Royals,Mumbai Indians,Field,0.4595,0.5405,0.5358,0.4642,Rajasthan Royals
+2022,"Maharashtra Cricket Association Stadium, Pune",Delhi Capitals,Gujarat Titans,Delhi Capitals,Field,0.549,0.451,0.33,0.67,Gujarat Titans
+2022,"Brabourne Stadium, Mumbai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,Field,0.4602,0.5398,0.5358,0.4642,Punjab Kings
+2022,"Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Field,0.4595,0.5405,0,1,Lucknow Super Giants
+2022,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Field,0.4231,0.5769,0.5357,0.4643,Royal Challengers Bangalore
+2022,"Maharashtra Cricket Association Stadium, Pune",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Field,0.549,0.451,0.28125,0.71875,Kolkata Knight Riders
+2022,"Dr DY Patil Sports Academy, Mumbai",Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Field,0.4595,0.5405,0.25,0.75,Lucknow Super Giants
+2022,"Brabourne Stadium, Mumbai",Gujarat Titans,Punjab Kings,Gujarat Titans,Field,0.4602,0.5398,0.5,0.5,Gujarat Titans
+2022,"Dr DY Patil Sports Academy, Mumbai",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,0.4595,0.5405,0.7,0.3,Sunrisers Hyderabad
+2022,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Field,0.549,0.451,0.424242424,0.575757576,Royal Challengers Bangalore
+2022,"Brabourne Stadium, Mumbai",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.4602,0.5398,0.45455,0.54545,Delhi Capitals
+2022,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Field,0.4231,0.5769,0.25,0.75,Rajasthan Royals
+2022,"Dr DY Patil Sports Academy, Mumbai",Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,0.4595,0.5405,0.75,0.25,Sunrisers Hyderabad
+2022,"Dr DY Patil Sports Academy, Mumbai",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Field,0.4595,0.5405,0.3226,0.6774,Chennai Super Kings
+2022,"Maharashtra Cricket Association Stadium, Pune",Mumbai Indians,Punjab Kings,Mumbai Indians,Field,0.549,0.451,0.53125,0.46875,Punjab Kings
+2022,"Dr DY Patil Sports Academy, Mumbai",Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Field,0.4595,0.5405,0.8333,0.1667,Gujarat Titans
+2022,"Brabourne Stadium, Mumbai",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Field,0.4602,0.5398,0.346153846,0.653846154,Sunrisers Hyderabad
+2022,"Brabourne Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Field,0.4602,0.5398,0.75,0.25,Lucknow Super Giants
+2022,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Field,0.4231,0.5769,0.6,0.4,Royal Challengers Bangalore
+2022,"Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Field,0.4595,0.5405,0.68181,0.31819,Sunrisers Hyderabad
+2022,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,Gujarat Titans,Gujarat Titans,Field,0.549,0.451,0.5,0.5,Gujarat Titans
+2022,"Brabourne Stadium, Mumbai",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Field,0.4602,0.5398,0.5,0.5,Rajasthan Royals
+2022,"Dr DY Patil Sports Academy, Mumbai",Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Field,0.4595,0.5405,0.6,0.4,Royal Challengers Bangalore
+2022,"Brabourne Stadium, Mumbai",Delhi Capitals,Punjab Kings,Delhi Capitals,Field,0.4602,0.5398,0.48484,0.51516,Delhi Capitals
+2022,"Dr DY Patil Sports Academy, Mumbai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Field,0.4595,0.5405,0.4595,0.5405,Chennai Super Kings
+2022,"Wankhede Stadium, Mumbai",Delhi Capitals,Rajasthan Royals,Delhi Capitals,Field,0.4231,0.5769,0.4643,0.5357,Rajasthan Royals
+2022,"Dr DY Patil Sports Academy, Mumbai",Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Bat,0.4595,0.5405,0.6667,0.3333,Gujarat Titans
+2022,"Brabourne Stadium, Mumbai",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,0.4602,0.5398,0.434782609,0.565217391,Sunrisers Hyderabad
+2022,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Field,0.4231,0.5769,0.75,0.25,Lucknow Super Giants
+2022,"Wankhede Stadium, Mumbai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,Field,0.4231,0.5769,0.5358,0.4642,Punjab Kings
+2022,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Field,0.549,0.451,0.5357,0.4643,Rajasthan Royals
+2022,"Wankhede Stadium, Mumbai",Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Field,0.4231,0.5769,0.75,0.25,Gujarat Titans
+2022,"Wankhede Stadium, Mumbai",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Field,0.4231,0.5769,0.45455,0.54545,Delhi Capitals
+2022,"Maharashtra Cricket Association Stadium, Pune",Lucknow Super Giants,Punjab Kings,Punjab Kings,Field,0.549,0.451,0.75,0.25,Lucknow Super Giants
+2022,"Brabourne Stadium, Mumbai",Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Bat,0.4602,0.5398,0.3333,0.6667,Gujarat Titans
+2022,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians,Rajasthan Royals,Mumbai Indians,Field,0.4595,0.5405,0.5358,0.4642,Mumbai Indians
+2022,"Wankhede Stadium, Mumbai",Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Bat,0.4231,0.5769,0.25,0.75,Lucknow Super Giants
+2022,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,0.549,0.451,0.7,0.3,Chennai Super Kings
+2022,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Field,0.4231,0.5769,0.5,0.5,Kolkata Knight Riders
+2022,"Dr DY Patil Sports Academy, Mumbai",Gujarat Titans,Punjab Kings,Gujarat Titans,Bat,0.4595,0.5405,0.5,0.5,Punjab Kings
+2022,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,0.549,0.451,0.3226,0.6774,Royal Challengers Bangalore
+2022,"Brabourne Stadium, Mumbai",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,0.4602,0.5398,0.45833,0.54167,Delhi Capitals
+2022,"Brabourne Stadium, Mumbai",Gujarat Titans,Mumbai Indians,Gujarat Titans,Field,0.4602,0.5398,0.6,0.4,Mumbai Indians
+2022,"Wankhede Stadium, Mumbai",Punjab Kings,Rajasthan Royals,Punjab Kings,Bat,0.4231,0.5769,0.4074,0.5926,Rajasthan Royals
+2022,"Maharashtra Cricket Association Stadium, Pune",Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Field,0.549,0.451,0.25,0.75,Lucknow Super Giants
+2022,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Bat,0.4231,0.5769,0.434782609,0.565217391,Royal Challengers Bangalore
+2022,"Dr DY Patil Sports Academy, Mumbai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,Field,0.4595,0.5405,0.6333,0.3667,Chennai Super Kings
+2022,"Dr DY Patil Sports Academy, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,0.4595,0.5405,0.28125,0.71875,Kolkata Knight Riders
+2022,"Maharashtra Cricket Association Stadium, Pune",Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Bat,0.549,0.451,0.2,0.8,Gujarat Titans
+2022,"Dr DY Patil Sports Academy, Mumbai",Delhi Capitals,Rajasthan Royals,Delhi Capitals,Field,0.4595,0.5405,0.4643,0.5357,Delhi Capitals
+2022,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,0.4231,0.5769,0.4595,0.5405,Mumbai Indians
+2022,"Brabourne Stadium, Mumbai",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Field,0.4602,0.5398,0.46875,0.53125,Punjab Kings
+2022,"Maharashtra Cricket Association Stadium, Pune",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Bat,0.549,0.451,0.346153846,0.653846154,Kolkata Knight Riders
+2022,"Wankhede Stadium, Mumbai",Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Bat,0.4231,0.5769,0.5,0.5,Gujarat Titans
+2022,"Brabourne Stadium, Mumbai",Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Bat,0.4602,0.5398,0.25,0.75,Rajasthan Royals
+2022,"Dr DY Patil Sports Academy, Mumbai",Delhi Capitals,Punjab Kings,Punjab Kings,Field,0.4595,0.5405,0.48484,0.51516,Delhi Capitals
+2022,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field,0.4231,0.5769,0.454545455,0.545454545,Sunrisers Hyderabad
+2022,"Dr DY Patil Sports Academy, Mumbai",Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Bat,0.4595,0.5405,0.25,0.75,Lucknow Super Giants
+2022,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Bat,0.4231,0.5769,0.3333,0.6667,Royal Challengers Bangalore
+2022,"Brabourne Stadium, Mumbai",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat,0.4602,0.5398,0.5357,0.4643,Rajasthan Royals
+2022,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Mumbai Indians,Field,0.4231,0.5769,0.4412,0.5588,Mumbai Indians
+2022,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Bat,0.4231,0.5769,0.68181,0.31819,Punjab Kings
+2022,"Eden Gardens, Kolkata ",Gujarat Titans,Rajasthan Royals,Gujarat Titans,Field,0.4111,0.5889,0.8333,0.1667,Gujarat Titans
+2022,"Eden Gardens, Kolkata ",Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Field,0.4111,0.5889,0.6,0.4,Royal Challengers Bangalore
+2022,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,0.4516,0.5484,0.5357,0.4643,Rajasthan Royals
+2022,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Bat,0.4516,0.5484,0.8333,0.1667,Gujarat Titans
+2023,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Gujarat Titans,Gujarat Titans,Field,0.4516,0.5484,0.5,0.5,Gujarat Titans
+2023,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.45,0.55,0.34375,0.65625,Punjab Kings
+2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Delhi Capitals,Delhi Capitals,Field,0.55,0.45,0.75,0.25,Lucknow Super Giants
+2023,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,0.4444,0.5556,0.5,0.5,Rajasthan Royals
+2023,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,0.4167,0.5833,0.575757576,0.424242424,Royal Challengers Bangalore
+2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Field,0.6053,0.3947,0.3333,0.6667,Chennai Super Kings
+2023,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Gujarat Titans,Gujarat Titans,Field,0.4405,0.5595,0.33,0.67,Gujarat Titans
+2023,"Barsapara Cricket Stadium, Guwahati",Punjab Kings,Rajasthan Royals,Rajasthan Royals,Field,1,0,0.4074,0.5926,Punjab Kings
+2023,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,0.4111,0.5889,0.5757,0.4243,Kolkata Knight Riders
+2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Bat,0.55,0.45,0,1,Lucknow Super Giants
+2023,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Delhi Capitals,Delhi Capitals,Field,1,0,0.5357,0.4643,Rajasthan Royals
+2023,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,0.4231,0.5769,0.5405,0.4595,Chennai Super Kings
+2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Bat,0.4516,0.5484,0.6667,0.3333,Kolkata Knight Riders
+2023,"Rajiv Gandhi International Stadium, Hyderabad",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,0.4444,0.5556,0.31819,0.68181,Sunrisers Hyderabad
+2023,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Field,0.4167,0.5833,0.6,0.4,Lucknow Super Giants
+2023,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,Mumbai Indians,Field,0.4405,0.5595,0.4412,0.5588,Mumbai Indians
+2023,"MA Chidambaram Stadium, Chepauk, Chennai",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Field,0.6053,0.3947,0.4643,0.5357,Rajasthan Royals
+2023,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Gujarat Titans,Gujarat Titans,Field,0.45,0.55,0.5,0.5,Gujarat Titans
+2023,"Eden Gardens, Kolkata ",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.4111,0.5889,0.346153846,0.653846154,Sunrisers Hyderabad
+2023,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Field,0.4167,0.5833,0.6,0.4,Royal Challengers Bangalore
+2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Punjab Kings,Punjab Kings,Field,0.55,0.45,0.75,0.25,Punjab Kings
+2023,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,0.4231,0.5769,0.28125,0.71875,Mumbai Indians
+2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Field,0.4516,0.5484,0.8333,0.1667,Rajasthan Royals
+2023,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,0.4167,0.5833,0.6774,0.3226,Chennai Super Kings
+2023,"Rajiv Gandhi International Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,0.4444,0.5556,0.545454545,0.454545455,Mumbai Indians
+2023,"Sawai Mansingh Stadium, Rajasthan",Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Field,0.3571,0.6429,0.25,0.75,Lucknow Super Giants
+2023,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Field,0.45,0.55,0.46875,0.53125,Royal Challengers Bangalore
+2023,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Field,0.4405,0.5595,0.54545,0.45455,Delhi Capitals
+2023,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field,0.6053,0.3947,0.3,0.7,Chennai Super Kings
+2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Bat,0.55,0.45,0.8,0.2,Gujarat Titans
+2023,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,Mumbai Indians,Field,0.4231,0.5769,0.46875,0.53125,Punjab Kings
+2023,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,0.4167,0.5833,0.5357,0.4643,Royal Challengers Bangalore
+2023,"Eden Gardens, Kolkata ",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.4111,0.5889,0.6333,0.3667,Chennai Super Kings
+2023,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Bat,0.4444,0.5556,0.45833,0.54167,Delhi Capitals
+2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Mumbai Indians,Mumbai Indians,Field,0.4516,0.5484,0.6,0.4,Gujarat Titans
+2023,"M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,0.4167,0.5833,0.5757,0.4243,Kolkata Knight Riders
+2023,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat,0.3571,0.6429,0.4643,0.5357,Rajasthan Royals
+2023,"Punjab Cricket Association Stadium, Mohali",Lucknow Super Giants,Punjab Kings,Punjab Kings,Field,0.45,0.55,0.75,0.25,Lucknow Super Giants
+2023,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,Field,0.4111,0.5889,0.3333,0.6667,Gujarat Titans
+2023,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Bat,0.4405,0.5595,0.54167,0.45833,Sunrisers Hyderabad
+2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,Bat,0.6053,0.3947,0.5358,0.4642,Punjab Kings
+2023,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Bat,0.4231,0.5769,0.4642,0.5358,Mumbai Indians
+2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Bat,0.55,0.45,0.6,0.4,Royal Challengers Bangalore
+2023,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Gujarat Titans,Delhi Capitals,Bat,0.4516,0.5484,0.33,0.67,Delhi Capitals
+2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,Field,0.55,0.45,0.6667,0.3333,Lucknow Super Giants
+2023,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Mumbai Indians,Mumbai Indians,Field,0.45,0.55,0.46875,0.53125,Mumbai Indians
+2023,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Bat,0.4444,0.5556,0.653846154,0.346153846,Kolkata Knight Riders
+2023,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Bat,0.3571,0.6429,0.1667,0.8333,Gujarat Titans
+2023,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,0.6053,0.3947,0.5405,0.4595,Chennai Super Kings
+2023,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,Bat,0.4405,0.5595,0.6,0.4,Delhi Capitals
+2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Field,0.4516,0.5484,0.8,0.2,Gujarat Titans
+2023,"Sawai Mansingh Stadium, Rajasthan",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Bat,0.3571,0.6429,0.5,0.5,Sunrisers Hyderabad
+2023,"Eden Gardens, Kolkata ",Punjab Kings,Kolkata Knight Riders,Punjab Kings,Bat,0.4111,0.5889,0.34375,0.65625,Kolkata Knight Riders
+2023,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,0.4231,0.5769,0.424242424,0.575757576,Mumbai Indians
+2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Bat,0.6053,0.3947,0.6333,0.3667,Chennai Super Kings
+2023,"Eden Gardens, Kolkata ",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field,0.4111,0.5889,0.5,0.5,Rajasthan Royals
+2023,"Wankhede Stadium, Mumbai",Mumbai Indians,Gujarat Titans,Gujarat Titans,Field,0.4231,0.5769,0.4,0.6,Mumbai Indians
+2023,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Bat,0.4444,0.5556,0,1,Lucknow Super Giants
+2023,"Arun Jaitley Stadium, Delhi",Punjab Kings,Delhi Capitals,Delhi Capitals,Field,0.4405,0.5595,0.51516,0.48484,Punjab Kings
+2023,"Sawai Mansingh Stadium, Rajasthan",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Bat,0.3571,0.6429,0.5357,0.4643,Royal Challengers Bangalore
+2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat,0.6053,0.3947,0.6333,0.3667,Kolkata Knight Riders
+2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,0.4516,0.5484,0.75,0.25,Gujarat Titans
+2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Field,0.55,0.45,0.75,0.25,Lucknow Super Giants
+2023,"Himachal Pradesh Cricket Association Stadium, Dharamshala",Delhi Capitals,Punjab Kings,Punjab Kings,Field,0.5455,0.4545,0.48484,0.51516,Delhi Capitals
+2023,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,0.4444,0.5556,0.565217391,0.434782609,Royal Challengers Bangalore
+2023,"Himachal Pradesh Cricket Association Stadium, Dharamshala",Punjab Kings,Rajasthan Royals,Rajasthan Royals,Field,0.5455,0.4545,0.4074,0.5926,Rajasthan Royals
+2023,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Bat,0.4405,0.5595,0.6333,0.3667,Chennai Super Kings
+2023,"Eden Gardens, Kolkata ",Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Field,0.4111,0.5889,0.75,0.25,Lucknow Super Giants
+2023,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field,0.4231,0.5769,0.454545455,0.545454545,Mumbai Indians
+2023,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Field,0.4167,0.5833,0.3333,0.6667,Gujarat Titans
+2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Gujarat Titans,Gujarat Titans,Field,0.6053,0.3947,0.5,0.5,Chennai Super Kings
+2023,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Bat,0.6053,0.3947,0.25,0.75,Mumbai Indians
+2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Mumbai Indians,Mumbai Indians,Field,0.4516,0.5484,0.6,0.4,Gujarat Titans
+2023,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Field,0.4516,0.5484,0.5,0.5,Chennai Super Kings
